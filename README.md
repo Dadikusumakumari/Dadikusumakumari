@@ -27,13 +27,13 @@
 </details>
 
 
-<details>
+<!-- <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Dadikusumakumari"><img alt="Dadikusumakumari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dadikusumakumari&custom_title=Kusuma%20Kumari's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-</details>
+</details> -->
 
 <br/>
 <!---
